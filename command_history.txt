@@ -1,4 +1,4 @@
-git init
+Linea cambiada 2
 git clone git@github.com:guillermo20052009/ProyectoLibreConfiguracion.git
 git checkout -b francisco_mejiasdematos_v1
 
