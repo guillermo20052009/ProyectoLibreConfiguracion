@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Jose vazquez
 git init
+=======
+Linea Cambiada
+>>>>>>> 0eed830ae556585ffcfe9dd73f90e8c81f45eae6
 git clone git@github.com:guillermo20052009/ProyectoLibreConfiguracion.git
 git checkout -b Guillermo_Barcena_v1
 git add .
