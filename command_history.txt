@@ -8,4 +8,8 @@ git add .
 git commit -m "Add used commands"
 git push
 
+<<<<<<< HEAD
 nueva linea
+=======
+linea cambiada
+>>>>>>> 5a402cdb1f441f37fea4128645bda137dee9620b
