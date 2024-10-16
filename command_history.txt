@@ -9,3 +9,4 @@ git checkout -b Guillermo_Barcena_v1
 git add .
 git commit -m "Add used commands"
 git push
+Stand
