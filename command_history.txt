@@ -1,3 +1,4 @@
+Jose vazquez
 git init
 git clone git@github.com:guillermo20052009/ProyectoLibreConfiguracion.git
 git checkout -b Guillermo_Barcena_v1
