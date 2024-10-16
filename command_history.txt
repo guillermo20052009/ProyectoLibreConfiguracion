@@ -11,5 +11,3 @@ git checkout -b francisco_mejiasdematos_v1
 git add .
 git commit -m "Add used commands"
 git push --set-upstream origin francisco_mejiasdematos_v1
-
-Text to revert
