@@ -4,3 +4,5 @@ git initeieitinwrl
 git initbsrhs
 >>>>>>> ebab4ea39c9e3d5664017977cba523d14276572e
 git clone git@github.com:guillermo20052009/ProyectoLibreConfiguracion.git
+
+wick
