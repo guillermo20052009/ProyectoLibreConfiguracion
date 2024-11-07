@@ -1,2 +1,2 @@
-git init
+git initetetwrrerererere
 git clone git@github.com:guillermo20052009/ProyectoLibreConfiguracion.git
